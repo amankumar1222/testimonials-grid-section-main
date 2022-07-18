@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ee21a07.css",
+    "main.js": "/static/js/main.3e6df718.js",
+    "static/js/787.2bb67fd4.chunk.js": "/static/js/787.2bb67fd4.chunk.js",
+    "index.html": "/index.html",
+    "static/media/bg-pattern-quotation.svg": "/static/media/bg-pattern-quotation.6b460e30439432820da617334668e2b6.svg",
+    "main.6ee21a07.css.map": "/static/css/main.6ee21a07.css.map",
+    "main.3e6df718.js.map": "/static/js/main.3e6df718.js.map",
+    "787.2bb67fd4.chunk.js.map": "/static/js/787.2bb67fd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ee21a07.css",
+    "static/js/main.3e6df718.js"
+  ]
+}
